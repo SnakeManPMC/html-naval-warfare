@@ -1,0 +1,58 @@
+
+body
+{
+	background: RGB(30, 30, 30);
+	color: RGB(180, 180, 180);
+	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+
+	text-align: left;
+	max-width: 100%;
+	margin: 0px 10px;
+}
+
+h1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 32px;
+	color: RGB(255, 255, 255);
+}
+
+h2
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: RGB(255, 255, 255);
+}
+
+header
+{
+	text-align: center;
+	width: 100%;
+}
+
+section
+{
+}
+
+footer
+{
+	text-align: center;
+	width: 100%;
+}
+
+a:link, a:visited
+{
+	background-color: rgb(100, 100, 100);
+	color: rgb(255, 255, 255);
+	padding: 3px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+ 
+a:hover, a:active
+{
+	background-color: rgb(50, 50, 50);
+}

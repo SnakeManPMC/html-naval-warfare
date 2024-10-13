@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: 
+Sitemap: https://naval-warfare.pmctactical.org/sitemap.xml
