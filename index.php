@@ -24,6 +24,8 @@
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>Naval Warfare Fleet Tactics</h2>
 
+<p><a href="about.php">About</a> us or well this website, what is it, what its purpose etc.</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
