@@ -25,6 +25,7 @@
 	<h2>Naval Warfare Fleet Tactics</h2>
 
 <p><a href="about.php">About</a> us or well this website, what is it, what its purpose etc.</p>
+<p><a href="anti-submarine-warfare.php">Anti Submarine Warfare (ASW)</a> hunting of enemy submarines.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
@@ -32,7 +33,6 @@
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="links.php">Links</a>, back to <a href="index.php">Naval Warfare PMC Tactical root page</a></p>
-<br><br>
 <p><i>Naval Warfare PMC Tactical 2024 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
