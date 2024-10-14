@@ -56,3 +56,14 @@ a:hover, a:active
 {
 	background-color: rgb(50, 50, 50);
 }
+
+.imgcredit
+{
+	font-size: 12px;
+}
+
+.imgresponsive
+{
+	max-width: 100%;
+	height: auto;
+}

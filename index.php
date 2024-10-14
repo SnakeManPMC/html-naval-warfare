@@ -30,6 +30,7 @@
 <p><a href="emcon.php">EMCON</a> Emissions Control, shut your radar/sonar off.</p>
 <p><a href="magnetic-anomaly-detector.php">Magnetic Anomaly Detector</a> or in short MAD.</p>
 <p><a href="sonobuoy.php">Sonobuoy</a> you drop them in the ocean to listen sounds, mainly submarines.</p>
+<p><a href="thermocline.php">Thermocline</a> or thermal layer in the ocean temperatures.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
