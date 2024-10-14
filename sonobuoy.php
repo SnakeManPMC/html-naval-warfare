@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Naval Warfare and Fleet Tactics - PMC Tactical</title>
+<title>Sonobuoy Naval Warfare and Fleet Tactics - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Naval Warfare and Fleet Tactics enthusiast website by PMC Tactical">
+<META name="description" content="Sonobuoy Naval Warfare and Fleet Tactics enthusiast website by PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,18 +15,18 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>Naval Warfare PMC Tactical</h1>
+	<h1>Sonobuoy Naval Warfare PMC Tactical</h1>
 <p>Welcome to Naval Warfare enthusiast website by PMC.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Naval Warfare Fleet Tactics</h2>
+	<h2>Sonobuoy</h2>
 
-<p><a href="about.php">About</a> us or well this website, what is it, what its purpose etc.</p>
-<p><a href="anti-submarine-warfare.php">Anti Submarine Warfare (ASW)</a> hunting of enemy submarines.</p>
-<p><a href="sonobuoy.php">Sonobuoy</a> you drop them in the ocean to listen sounds, mainly submarines.</p>
+<p>
+<i>A sonobuoy (a portmanteau of sonar and buoy) is a small expendable sonar buoy dropped from aircraft or ships for anti-submarine warfare or underwater acoustic research. Sonobuoys are typically around 13 cm (5 in) in diameter and 91 cm (3 ft) long. When floating on the water, sonobuoys have both a radio transmitter above the surface and hydrophone sensors underwater.</i> -source <a href="https://en.wikipedia.org/wiki/Sonobuoy" target="_blank">Sonobuoy wikipedia</a>.
+</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
