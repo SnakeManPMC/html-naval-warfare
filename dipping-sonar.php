@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Naval Warfare and Fleet Tactics - PMC Tactical</title>
+<title>Dipping Sonar Naval Warfare and Fleet Tactics - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Naval Warfare and Fleet Tactics enthusiast website by PMC Tactical">
+<META name="description" content="Dipping Sonar Naval Warfare and Fleet Tactics enthusiast website by PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,19 +15,18 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>Naval Warfare PMC Tactical</h1>
+	<h1>Dipping Sonar Naval Warfare PMC Tactical</h1>
 <p>Welcome to Naval Warfare enthusiast website by PMC.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Naval Warfare Fleet Tactics</h2>
+	<h2>Dipping Sonar</h2>
 
-<p><a href="about.php">About</a> us or well this website, what is it, what its purpose etc.</p>
-<p><a href="anti-submarine-warfare.php">Anti Submarine Warfare (ASW)</a> hunting of enemy submarines.</p>
-<p><a href="dipping-sonar.php">Dipping Sonar</a> is a sonar device you lower from hovering ASW helicopter.</p>
-<p><a href="sonobuoy.php">Sonobuoy</a> you drop them in the ocean to listen sounds, mainly submarines.</p>
+<p>
+This is a sonar device that is deployed by low hovering ASW helicopter to hunt submarines. <i>The AN/AQS-13 series was a helicopter dipping sonar system for the United States Navy. These systems were deployed as the primary inner zone anti-submarine warfare (ASW) sensor on aircraft carrier based helicopters for over five decades.</i> -source <a href="https://en.wikipedia.org/wiki/AN/AQS-13" target="_blank">AN/AQS-13 wikipedia</a>.
+</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
