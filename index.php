@@ -30,6 +30,7 @@
 <p><a href="emcon.php">EMCON</a> Emissions Control, shut your radar/sonar off.</p>
 <p><a href="magnetic-anomaly-detector.php">Magnetic Anomaly Detector</a> or in short MAD.</p>
 <p><a href="sonobuoy.php">Sonobuoy</a> you drop them in the ocean to listen sounds, mainly submarines.</p>
+<p><a href="sprint-and-drift.php">Sprint And Drift</a> is a tactic for running and then stopping to listen.</p>
 <p><a href="thermocline.php">Thermocline</a> or thermal layer in the ocean temperatures.</p>
 <p><a href="towed-array-sonar.php">Towed Array Sonar</a> a cable towed behind a submarine or surface ship with sonar at the end of it.</p>
 
