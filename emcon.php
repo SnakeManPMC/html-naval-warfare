@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Naval Warfare and Fleet Tactics - PMC Tactical</title>
+<title>Emissions Control Naval Warfare and Fleet Tactics - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Naval Warfare and Fleet Tactics enthusiast website by PMC Tactical">
+<META name="description" content="Emissions Control (EMCON) Naval Warfare and Fleet Tactics enthusiast website by PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,20 +15,18 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>Naval Warfare PMC Tactical</h1>
+	<h1>Emissions Control Naval Warfare PMC Tactical</h1>
 <p>Welcome to Naval Warfare enthusiast website by PMC.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Naval Warfare Fleet Tactics</h2>
+	<h2>Emissions Control (EMCON)</h2>
 
-<p><a href="about.php">About</a> us or well this website, what is it, what its purpose etc.</p>
-<p><a href="anti-submarine-warfare.php">Anti Submarine Warfare (ASW)</a> hunting of enemy submarines.</p>
-<p><a href="dipping-sonar.php">Dipping Sonar</a> is a sonar device you lower from hovering ASW helicopter.</p>
-<p><a href="emcon.php">EMCON</a> Emissions Control, shut your radar/sonar off.</p>
-<p><a href="sonobuoy.php">Sonobuoy</a> you drop them in the ocean to listen sounds, mainly submarines.</p>
+<p>
+<i>In telecommunications, radio silence or emissions control (EMCON) is a status in which all fixed or mobile radio stations in an area are asked to stop transmitting for safety or security reasons.</i> -source <a href="https://en.wikipedia.org/wiki/Radio_silence" target="_blank">wikipedia radio silence (EMCON)</a>.
+</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
